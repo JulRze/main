@@ -15,3 +15,8 @@ My name's Julia Rzeźnikiewicz. I'd like this place to be dedicated to collectin
 ## Sample test cases for *The palindrome exercise*
 The above-mentioned [The palindrome exercise](https://xndev.com/palindrome) offers a free opportunity for bug reporting practice. While doing the task, I found Jira tool to be useful.
 ### Bug report 1
+![Bug report 1](bugreport1.png)
+### Bug report 2
+![Bug report 2](bugreport2.png)
+### Bug report 3
+![Bug report 3](bugreport3.png)
